@@ -2019,6 +2019,22 @@
     "wallet_conf": "unobtanium--v0.10.1.1.conf"
   },
   {
+    "blockchain": "Veles",
+    "ticker": "VLS",
+    "ver_id": "veles--v0.18.1.3",
+    "ver_name": "Veles v0.18.1.3",
+    "conf_name": "veles.conf",
+    "dir_name_linux": "veles",
+    "dir_name_mac": "Veles",
+    "dir_name_win": "Veles",
+    "repo_url": "https://github.com/velescore/veles",
+    "versions": [
+      "v0.18.1.3"
+    ],
+    "xbridge_conf": "veles--v0.18.1.3.conf",
+    "wallet_conf": "veles--v0.18.1.3.conf"
+  },
+  {
     "blockchain": "Vertcoin",
     "ticker": "VTC",
     "ver_id": "vertcoin--0.14.0",
